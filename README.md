@@ -1,0 +1,4 @@
+cookbook
+========
+
+Version 1
